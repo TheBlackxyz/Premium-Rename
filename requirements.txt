@@ -1,0 +1,10 @@
+Pillow
+humanize
+hachoir
+pyrofork
+TgCrypto
+pymongo==4.0.2
+dnspython
+Flask
+gunicorn==20.1.0
+aiohttp
